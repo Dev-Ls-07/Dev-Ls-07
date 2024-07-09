@@ -11,8 +11,6 @@
 
 - **Moro em São Paulo, especificamente na cidade de Guarulhos, tenho 18 anos e estou aberto a relacionamentos** 
 
-![](https://media1.tenor.com/m/ua4AvVOGvw8AAAAd/ilikebigpoopass.gif)
-
 - **Adoro trabalhar com Linguagens de Programação!!**
 
 - **Eu estou seguindo rumo a ser um Desenvolvedor Fullstack!**
