@@ -15,8 +15,6 @@
 
 - **Eu estou seguindo rumo a ser um Desenvolvedor Fullstack!**
 
-![](https://64.media.tumblr.com/780a3f3cf128f959290609d622bdbcfc/4c4d02b09e4dc4ab-37/s400x600/27ff12642d455d549cdee6f5bc1d4dc07e4a0803.gif)
-
 
 ![](https://media.tenor.com/Le4lgKWwsmUAAAAi/rayman-workout.gif)
 
