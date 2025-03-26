@@ -18,7 +18,7 @@
 
 ![](https://media.tenor.com/Le4lgKWwsmUAAAAi/rayman-workout.gif)
 
-## Meus Meios de Contato PC:
+## Meus Meios de Contato via Computador:
 
 ![](https://pm1.aminoapps.com/7659/28ba282aefb4776f2d5c79efe6a2af7931b92cf9r1-783-391v2_hq.jpg)
 -
@@ -26,7 +26,7 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luis_figueiredo/)
 
 
-## Meios de Contato Celular
+## Meios de contato via Celular
 ![](https://media1.tenor.com/m/uSCX8MQJbWoAAAAC/pokemon-pokemon-journeys.gif)
 -
 
