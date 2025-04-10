@@ -9,7 +9,9 @@
 
 - **Tenho o rumo de me tornar um grande Desenvolvedor Fullstack!**
 
-- **Moro em São Paulo, especificamente na cidade de Guarulhos, tenho 18 anos e estou aberto a relacionamentos** 
+- **Moro em São Paulo, especificamente na cidade de Guarulhos, tenho 18 anos e estou aberto a relacionamentos**
+
+![](https://media1.tenor.com/m/ua4AvVOGvw8AAAAd/ilikebigpoopass.gif)
 
 - **Adoro trabalhar com Linguagens de Programação!!**
 
