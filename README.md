@@ -36,7 +36,7 @@
    
    <a href="https://media1.tenor.com"><img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" alt="gif2"></a>
 
-
+---
  
  ### Back-End  &  Front-End  
  <div style="display: flex; gap: 10px;">
@@ -47,7 +47,7 @@
    <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
  </div> 
 
-
+---
  
  ### Databases  &  Frameworks
 
@@ -58,7 +58,7 @@
    <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
  </div>
 
-
+---
 
  ###  Tecnologias
  <div style="display: flex; gap: 10px;">
