@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 # Luis Henrique
 
 ## Sobre Mim:
@@ -9,12 +8,13 @@
 
 ---
 
+  <img src="https://github.com/Dev-Ls-07/LsIsBeautifull/blob/main/assets/tenor.gif?raw=true" alt="Pokémon" width="300"/>
 
 
 ---
 
 
- <div align="center">
+
 
  **Programar para mim é de comer!**
 
