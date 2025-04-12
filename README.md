@@ -62,8 +62,8 @@
  ###  Tecnologias
  <div style="display: flex; gap: 10px;">
    <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
-   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"></a>
    <a href="https://gmail.com/"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
+   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"></a>
  </div>
  
  
