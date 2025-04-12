@@ -53,7 +53,6 @@
 
  <div style="display: flex; gap: 10px;">
    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-   <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></a>
    <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a> 
    <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
  </div>
