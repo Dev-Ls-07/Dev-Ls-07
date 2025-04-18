@@ -1,6 +1,13 @@
 <div align="center">
   
-# Luis Henrique
+# Luiis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
+
+---
+
+<img src="https://media.tenor.com/yibhV1j59iMAAAAi/bom-dia.gif" alt="Vai Brazil!" width="100" />
+
+---
+
 
 ## Sobre Mim:
 
@@ -27,6 +34,8 @@
  **Adoro trabalhar com Linguagens de Programação!!**
 
  **Eu estou seguindo rumo a ser um Desenvolvedor Fullstack!**
+
+ 
 
 
 ![](https://media.tenor.com/Le4lgKWwsmUAAAAi/rayman-workout.gif)
