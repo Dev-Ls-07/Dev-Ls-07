@@ -1,6 +1,6 @@
 <div align="center">
   
-# Luiis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
+# Luis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
 
 ---
 
