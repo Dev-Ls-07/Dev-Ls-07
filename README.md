@@ -4,10 +4,6 @@
 
 ---
 
-<img src="https://media.tenor.com/yibhV1j59iMAAAAi/bom-dia.gif" alt="Vai Brazil!" width="100" />
-
----
-
 
 ## Sobre Mim:
 
