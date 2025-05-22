@@ -2,6 +2,8 @@
   
 # Luis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
 
+![GitHub Skills Badge](https://img.shields.io/badge/GitHub%20Skills-Introduction%20to%20GitHub-blue?logo=github)
+
 ---
 
 
