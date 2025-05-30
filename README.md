@@ -2,6 +2,12 @@
   
 # Luis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
 
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Coff_e_xpress)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ls-henrique/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ls_011_/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ls04936)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luishenriquegermano777@gmail.com)
+
 ---
 
 
