@@ -10,6 +10,12 @@
 
 ---
 
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <!-- Triângulo para cima -->
+  <polygon points="100,20 40,173 160,173" fill="none" stroke="blue" stroke-width="8"/>
+  <!-- Triângulo para baixo -->
+  <polygon points="100,180 40,47 160,47" fill="none" stroke="blue" stroke-width="8"/>
+</svg>
 
 ## Sobre Mim:
 
