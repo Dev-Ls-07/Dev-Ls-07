@@ -1,6 +1,6 @@
 <div align="center">
   
-# Luis Henrique         <head><img src="https://media.tenor.com/Z8qg_sHFsZAAAAAi/verified.gif" alt="Verificated!" width="27" align="center"/></head>
+# Luis Henrique         <head><img width="27px" src="https://private-user-images.githubusercontent.com/166053318/552504109-1bf574f3-4458-4f31-b48c-65dd5753c0eb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NjMyOTcsIm5iZiI6MTc3MTU2Mjk5NywicGF0aCI6Ii8xNjYwNTMzMTgvNTUyNTA0MTA5LTFiZjU3NGYzLTQ0NTgtNGYzMS1iNDhjLTY1ZGQ1NzUzYzBlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyMFQwNDQ5NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTNkMGJmNDNkZmJlYmZhZjM1NzFiMDhmMGZhMGZhOTYyNDk0NGM0NDE0YWFiMmFkNWNhOTJiNTg2Yzg4MWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AT8a3AwOkqY07DDodrUk7pmVJuNh0GWkH-S1u80fbTI"></head>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Coff_e_xpress)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ls-henrique/)
