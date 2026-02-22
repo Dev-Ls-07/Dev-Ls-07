@@ -1,6 +1,6 @@
 <div align="center">
   
-# Luis Henrique         <head><img width="27px" src=""></head>
+# Luis Henrique         <head><img width="27px" src="/assets/rs.png"></head>
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Coff_e_xpress)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ls-henrique/)
